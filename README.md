@@ -132,9 +132,12 @@ button {
 
 <!-- Slide 3 -->
 <div class="slide">
-    <h1>Our Memories 📸</h1>
-    <div class="slideshow">
-        <img id="slideImg" src="https://picsum.photos/300/400?1">
+    <h1>Happy Birthday, my love ❤️
+Honestly, I don’t even know how to put into words what you truly mean to me… but I’ll still try, because today is all about you 🎂✨
+From the day you came into my life, everything just started feeling different—in the best way possible. You didn’t just become a part of my life, you became the reason behind my smiles, my peace, and my happiness 🥺💖
+You’re not just beautiful on the outside, you have the purest heart, the softest soul, and a vibe that makes everything around you feel so warm and alive. Being with you feels like home… a place where I can be myself without fear, without pretending, just real ❤️
+There are so many moments with you that I wish I could pause and live forever… your smile, your laugh, the way you talk, even your little habits—I’ve fallen in love with all of it 😌✨
+On your special day, I just want you to know that you deserve the entire world and more. You deserve endless happiness, love that never fades, and dreams that always come true
     </div>
 </div>
 
